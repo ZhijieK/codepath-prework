@@ -1,7 +1,6 @@
 ## HelloWorld
 
 ### App Description
-`TODO://` Add app description
 
 Created a simple Android app that has 3 functionalities built in, accessed by buttons:
 1. Changes the text color from white to black
@@ -9,11 +8,8 @@ Created a simple Android app that has 3 functionalities built in, accessed by bu
 3. Changes the display text based on what the user inputs into the EditText box/line
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/QTAemIcTHi.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
