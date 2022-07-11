@@ -2,10 +2,12 @@
 
 ### App Description
 
-Created a simple Android app that has 3 functionalities built in, accessed by buttons:
-1. Changes the text color from white to black
-2. Changes the background color from dark gray to a really bright gray
-3. Changes the display text based on what the user inputs into the EditText box/line
+Created a simple Android app that has 5 functionalities built in, accessed by buttons:
+1. Changes the display text to what the user inputs into the EditText box/line.
+2. Resets all the updated changes back to default.
+3. Changes the text color from white to black.
+4. Changes the background color from dark gray to a really light gray.
+5. Displays the message: Goodbye 👋.
 
 ### App Walk-though
 
